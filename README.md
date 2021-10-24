@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RSSandy
-- 👀 I’m interested in Neel Redkar
+- 👀 I’m interested in learning how to use Google Maps APIs
 - 🌱 I’m currently learning how to use Github
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: rameshes.sn@gmail.com
